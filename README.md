@@ -70,6 +70,5 @@ Clínica Vida Saudável	250.00
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/clinica-medica-db.git  
-Execute os scripts SQL em ordem numérica (veja a pasta /scripts).
+git clone https://github.com/Casagrande80/TRABALHO-BANCO-DE-DADOS.git .
 
